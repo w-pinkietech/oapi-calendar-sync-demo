@@ -3,12 +3,12 @@
 HttpServerPort: 8089
 AppSettings:
   AppCredentials:
-    AppID: "cli_a6035948abf8d02e"
-    AppSecret: "gvuCjuSl4gZVUVGpGSM08dPk4WuE5n4P"
+    AppID: "app_id"
+    AppSecret: "secret"
   AppEventKey:
     EnableEncrypt: true
-    VerificationToken: "BzZ5XV77Ud3wZTHIfOJj1gGo4gaZMYDz"
-    EncryptKey: "zzu2p9RIsax9TSKHuISdzcF5fTRjXB4X"
+    VerificationToken: "verifacation_token"
+    EncryptKey: "encrypt_key"
   HelpDeskCredentials:
     EnableHelpDesk: false
     HelpDeskID: "help desk id"
