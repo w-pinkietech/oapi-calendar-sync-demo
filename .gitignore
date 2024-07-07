@@ -1,0 +1,31 @@
+output
+.idea
+
+# バイナリファイル
+*.exe
+*.dll
+*.so
+*.dylib
+
+# テストバイナリ
+*.test
+
+# カバレッジファイル
+*.out
+
+# 依存関係ディレクトリ
+/vendor/
+
+# IDEの設定ファイル
+.idea/
+.vscode/
+
+# ログファイル
+*.log
+
+# 環境変数ファイル
+.env
+
+# ビルド成果物
+/bin/
+/dist/
